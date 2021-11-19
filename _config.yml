@@ -160,12 +160,9 @@ prose:
   ignore:
     - 404.html
     - LICENSE
-    - feed.xml
     - _config.yml
     - /_layouts
-    - /_includes
     - /css
-    - /img
     - /js
   metadata:
     _posts:
