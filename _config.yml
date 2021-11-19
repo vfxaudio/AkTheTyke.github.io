@@ -155,12 +155,11 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: 'AkTheTyke.github.io'
+  rooturl: '_posts/'
   media: 'img'
   ignore:
     - 404.html
     - LICENSE
-    - _config.yml
     - /_layouts
     - /css
     - /js
