@@ -24,8 +24,8 @@ description: A place.... that I don't know what I'm going to do with...         
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  #Open Learning: "openlearning"
   Projects: "projects"
+  About This: "aboutthis"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
