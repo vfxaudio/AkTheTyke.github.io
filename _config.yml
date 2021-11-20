@@ -25,7 +25,6 @@ description: A place.... that I don't know what I'm going to do with...         
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  About This: "aboutthis"
   FAQ: "faq"
  
 #  Resources:
