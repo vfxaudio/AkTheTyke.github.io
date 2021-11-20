@@ -10,6 +10,8 @@
 # No.
 ## Can I make suggestions?
 Absolutely! I'm glad to have your feedback.
+<figure class="video_container">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGUKfyw0VLOsxYZRfoH7x9RnOFp2nSD4pvUHIHuZQEhThJGQ/viewform?embedded=true" width="640" height="753" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</figure>
 ## Is making a blog easy?
 # No.
