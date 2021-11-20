@@ -1,10 +1,8 @@
 # Frequently Asked Questions
 
-- [Can you teach me to make a blog like this?](#spell-check-doesnt-work-how-do-i-enable-it)
-- [Can I make posts on here?](#some-of-my-markdown-elements-arent-highlighted)
-- [Can I make suggestions?](#which-elements-of-markdown-are-supported)
-- [Autocompletion doesn't work](#autocompletion-doesnt-work)
-- [Is making a blog easy?](#syntax-highlighting-is-broken-after-uninstall)
+- [Can you teach me to make a blog like this?](#can-you-teach-me-how-to-make-a-blog-like-this)
+- [Can I make posts on here?](#can-i-make-posts-on-here)
+- [Can I make suggestions?](#can-i-make-suggestions)
 
 ## Can you teach me how to make a blog like this?
 # No.
