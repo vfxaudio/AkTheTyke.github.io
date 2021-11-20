@@ -9,8 +9,7 @@
 ## Can I make posts on here?
 # No.
 ## Can I make suggestions?
-Absolutely! I'm glad to have your feedback.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGUKfyw0VLOsxYZRfoH7x9RnOFp2nSD4pvUHIHuZQEhThJGQ/viewform?embedded=true" width="640" height="753" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+### [Absolutely! I'm glad to have your feedback. Click me to go to a form.](https://forms.gle/YrnXd138KQ8RyrdR6)
 
 ## Is making a blog easy?
 # No.
