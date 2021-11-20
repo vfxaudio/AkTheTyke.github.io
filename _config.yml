@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   About This: "aboutthis"
+  FAQ: "faq"
  
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
