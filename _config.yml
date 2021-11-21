@@ -24,7 +24,7 @@ description: A place.... that I don't know what I'm going to do with...         
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Random Stuff: "stuff"
   FAQ: "faq"
  
 #  Resources:
