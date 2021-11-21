@@ -1,4 +1,30 @@
-<form action="https://formcarry.com/s/Q2aSAYdkn2h" method="POST" accept-charset="UTF-8" >
-<input type="email" name="Email"><!-- use this to reply visitors and prevent spam via akismet -->
-<input type="text" name="Suggestion/Feedback">
-<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="forms.css" />
+    <title>Formcarry Contact Form Example</title>
+  </head>
+  <body>
+    <div class="formcarryContainer">
+      <form
+        class="formcarryForm"
+        action="https://formcarry.com/s/Q2aSAYdkn2h"
+        method="POST"
+      >
+        <label for="Feedback/Suggestion">Last Name</label>
+        <input type="text" id="lastName" name="lastName" required />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required />
+
+    
+        <button type="submit">Submit</button>
+      </form>
+    </div>
