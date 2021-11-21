@@ -1,4 +1,4 @@
 # Contact Us
-- ## Email: hello@screamemoji.cf
+- ## Email: hello@nerdemoji.gq
 - ## Phone: Coming soon.....
-- ## Suggestions: In [FAQ.](screamemoji.cf/faq)
+- ## Suggestions: In [FAQ.](nerdemoji.gq/faq)
