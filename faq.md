@@ -9,7 +9,7 @@
 ## Can I make posts on here?
 # No.
 ## Can I make suggestions?
-### [Absolutely! I'm glad to have your feedback. Click me to go to a form.](http://screamemoji.cf/suggest.html)
+### [Absolutely! I'm glad to have your feedback. Click me to go to a form.](http://screamemoji.cf/suggest)
 
 ## Is making a blog easy?
 # No.
