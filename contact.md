@@ -1,4 +1,4 @@
 # Contact Us
 - ## Email: hello@nerdemoji.gq
 - ## Phone: Coming soon.....
-- ## Suggestions: In [FAQ.](nerdemoji.gq/faq)
+- ## Suggestions: In [FAQ.](http://nerdemoji.gq/faq)
