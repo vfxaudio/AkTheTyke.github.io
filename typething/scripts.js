@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', function() {
     "use strict";
 
-    var WELCOME_MSG = '*hello*';
+    var WELCOME_MSG = '(coffee)(abhi)';
 
     var mainDiv = document.querySelector('.main');
     var textDiv = document.querySelector('.text');
